@@ -1,5 +1,5 @@
 ## Olá, meu nome é Pedro Franco!
-<p> Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, gosto muito de criar projetos,
+<p> Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, gosto muito de criar projetos,
     aqui encontram-se alguns dos meus estudos. </p>
 
 
