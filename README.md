@@ -24,5 +24,5 @@
 <div>
     <a target="_blank" href="https://www.instagram.com/francop13g/"><img height="60" width="60" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png"></a>
     <a target="_blank" href="https://www.linkedin.com/in/pedrofranco13/"><img height="60" width="60" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png"></a>
-    [go](http://stackoverflow.com){:target="_blank"}
+    [Visit this page](http::/link.com(
 </div>
