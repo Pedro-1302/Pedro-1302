@@ -15,6 +15,8 @@
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
             <img align="center" alt="PedroFranco-C#" height="60" width="40"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+             <img align="center" alt="PedroFranco-C#" height="60" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
         </div>
 </div>
 
