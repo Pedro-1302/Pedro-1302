@@ -22,6 +22,6 @@
 
 <h2> Redes Sociais </h2>
 <div>
-    <a href="https://www.instagram.com/francop13g/" target="_blank"><img height="60" width="60" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png"></a>
-    <a href="https://www.linkedin.com/in/pedrofranco13/" target="_blank"><img height="60" width="60" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png"></a>
+    <a href="https://www.instagram.com/francop13g/" target="_new"><img height="60" width="60" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png"></a>
+    <a href="https://www.linkedin.com/in/pedrofranco13/" target="_new"><img height="60" width="60" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png"></a>
 </div>
