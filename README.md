@@ -3,7 +3,7 @@
     aqui encontram-se alguns dos meus estudos. </p>
 
 
-<h2> Linguagens que Estudo </h2>
+<h2> Meus estudos </h2>
 <div align="center">
     <a href="https://github.com/Pedro-1302">
         <img height="180em"
