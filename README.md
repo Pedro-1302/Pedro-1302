@@ -1,7 +1,7 @@
-## Hello, my name is Pedro Franco! 
+# Hello, my name is Pedro Franco! 
 <p> I'm a systems analysis and development student, focused on developing projects to expand my portfolio. </p>
 
-<h2> What am i studying? </h2>
+<h2> <b> What am i studying? </b> </h2>
 <div align="center">
     <a href="https://github.com/Pedro-1302">
         <img height="180em"
@@ -20,14 +20,14 @@
         </div>
 </div>
 
-<h2> Social Media </h2>
+<h2> <b> Social Media </b> </h2>
 
 <div align="center">
     <a href="https://www.instagram.com/francop13g/"><img height="50" width="50" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png"></a>
     <a href="https://www.linkedin.com/in/pedrofranco13/"><img height="50" width="50" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png"></a>  
 </div>
 
-<h2> Tools I'm learning </h2> 
+<h2> <b> Tools I'm learning </b> </h2> 
 
 <div align="center">
 	<img align="center" alt="PedroFranco-Intellij" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
@@ -35,7 +35,7 @@
 	<img align="center" alt="PedroFranco-AndroidStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
 </div>
 
-<h2> Tools i want to learn </h2> 
+<h2> <b> Tools i want to learn </b> </h2> 
 
 <div align="center"> 
 	<img align="center" alt="PedroFranco-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
