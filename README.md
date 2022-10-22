@@ -43,5 +43,6 @@
 	<img align="center" alt="PedroFranco-Postgree" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 	<img align="center" alt="PedroFranco-Unity" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 	<img align="center" alt="PedroFranco-CloudAzureServices" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+	<img align="center" alt="PedroFranco-Flutter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 </div> 
 
