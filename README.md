@@ -35,7 +35,7 @@
 	<img align="center" alt="PedroFranco-AndroidStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
 </div>
 
-<h2> <b> Tools i want to learn </b> </h2> 
+<h2> <b> I want to learn this features </b> </h2> 
 
 <div align="center"> 
 	<img align="center" alt="PedroFranco-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
