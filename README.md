@@ -13,14 +13,14 @@
 
 <h2> <b> Social Media </b> </h2>
 
-<div align="center">
+<div>
     <a href="https://www.instagram.com/francop13g/"><img height="50" width="50" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png"></a>
     <a href="https://www.linkedin.com/in/pedrofranco13/"><img height="50" width="50" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png"></a>  
 </div>
 
 <h2> <b> Tools </b> </h2> 
 
-<div align="center">
+<div>
 	<img align="center" alt="PedroFranco-Intellij" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
 	<img align="center" alt="PedroFranco-VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 	<img align="center" alt="PedroFranco-AndroidStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
@@ -28,7 +28,7 @@
 
 <h2> <b> I want to learn </b> </h2> 
 
-<div align="center"> 
+<div> 
 	<img align="center" alt="PedroFranco-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 	<img align="center" alt="PedroFranco-Postgree" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 	<img align="center" alt="PedroFranco-Unity" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
