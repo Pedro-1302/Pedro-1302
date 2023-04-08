@@ -8,6 +8,7 @@
         <div style="display: inline_block"><br>
             <img align="center" alt="PedroFranco-C" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
             <img align="center" alt="PedroFranco-Kotlin" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+	    <img align="center" alt="PedroFranco-Swift" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
         </div>
 </div>
 
@@ -24,6 +25,7 @@
 	<img align="center" alt="PedroFranco-Intellij" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
 	<img align="center" alt="PedroFranco-VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 	<img align="center" alt="PedroFranco-AndroidStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
+	<img align="center" alt="PedroFranco-XCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
 </div>
 
 <h2> <b> I want to learn </b> </h2> 
@@ -33,6 +35,5 @@
 	<img align="center" alt="PedroFranco-Postgree" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 	<img align="center" alt="PedroFranco-Unity" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 	<img align="center" alt="PedroFranco-Flutter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-	<img align="center" alt="PedroFranco-Swift" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 </div> 
 
