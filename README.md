@@ -9,6 +9,7 @@
             <img align="center" alt="PedroFranco-C" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
             <img align="center" alt="PedroFranco-Kotlin" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 	    <img align="center" alt="PedroFranco-Swift" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+		<img align="center" alt="PedroFranco-C#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
         </div>
 </div>
 
