@@ -1,5 +1,5 @@
 # Hello, my name is Pedro Franco! 
-<p> I'm a systems analysis and development student, focused on developing projects to expand my portfolio. </p>
+<p> I'm a student at the Developer Academy program in Campinas and I'm studying Systems Analysis and Development at Fatec Americana. I'm interested in Swift development, mainly in UIKit and SpriteKit frameworks and I'm very curious about Java and Kotlin languages. </p>
 
 <h2> <b> What am i studying? </b> </h2>
 <div align="center">
