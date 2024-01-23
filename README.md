@@ -1,4 +1,4 @@
-<h3>About me</h3>
+<h2>About me</h2>
 <div>
     <ul>
         <li> 🍎 I am an iOS Developer.
@@ -10,29 +10,27 @@
 
 ---
 
-<h3> Technologies and Tools </h3>
+<h3>Technologies and Tools</h3>
 <div style="display: inline_block"><br>
-	<img align="center" alt="swift" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
-	<img align="center" alt="java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-	<img align="center" alt="vs-code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-	<img align="center" alt="xcode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
-	<img align="center" alt="figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-	<img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+      <img align="center" alt="swift" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+      <img align="center" alt="java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+      <img align="center" alt="vs-code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+      <img align="center" alt="xcode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
+      <img align="center" alt="figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+      <img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
 
----
-
-<h3> Currently Studying </h3>
+<h3>Currently Studying</h3>
 <div style="display: inline_block"><br>
-	<img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-	<img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-	<img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+      <img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+      <img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+      <img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </div>
-
---- 
 
 <h3> Published Projects </h3>
 <div style="display: inline_block"><br>
-	<img align="center" alt="git" height="50" width="50" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/54/fb/54/54fb543d-4708-79a3-2b23-0d32e4aa882f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/460x0w.webp"/>
+ 	<a href="https://apps.apple.com/br/app/timestamp-odyssey/id6471782796"> <img align="center" alt="git" height="50" width="50"  src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/54/fb/54/54fb543d-4708-79a3-2b23-0d32e4aa882f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/460x0w.webp"/> </a> 
 </div>
+
+
 
