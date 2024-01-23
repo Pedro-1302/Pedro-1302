@@ -1,40 +1,38 @@
-# Hello, my name is Pedro Franco! 
-<p> I'm a student at the Apple Developer Academy program in Campinas and i'm studying Systems Analysis and Development at Fatec Americana. I'm interested in Swift development, mainly in UIKit, SwiftUI and SpriteKit frameworks and I'm very curious about Java and Kotlin languages. </p>
-
-<h2> <b> What am i studying? </b> </h2>
-<div align="center">
-    <a href="https://github.com/Pedro-1302">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-1302&layout=compact&langs_count=7&theme=dark" />
-        <div style="display: inline_block"><br>
-            <img align="center" alt="PedroFranco-C" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-            <img align="center" alt="PedroFranco-Kotlin" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-	    <img align="center" alt="PedroFranco-Swift" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
-		<img align="center" alt="PedroFranco-C#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-        </div>
-</div>
-
-<h2> <b> Social Media </b> </h2>
-
+<h3>About me</h3>
 <div>
-    <a href="https://www.instagram.com/francop13g/"><img height="50" width="50" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png"></a>
-    <a href="https://www.linkedin.com/in/pedrofranco13/"><img height="50" width="50" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png"></a>  
+    <ul>
+        <li> 🍎 I am an iOS Developer.
+	<li> 📚 Currently studying the Apple Developer Academy program in Campinas and becoming a technologist in Systems Analysis and Development at Fatec Americana.
+        <li> 👩‍💻 I'm very interested in Swift and Java programming, mainly in UIKit & SpriteKit and Spring Boot frameworks.
+	<li> 👾 I'm passionate about games and in my free time I like to develop some games, read manga and books and play guitar.
+    </ul>
 </div>
 
-<h2> <b> Tools </b> </h2> 
+---
 
-<div>
-	<img align="center" alt="PedroFranco-Intellij" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-	<img align="center" alt="PedroFranco-VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-	<img align="center" alt="PedroFranco-AndroidStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
-	<img align="center" alt="PedroFranco-XCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
+<h3> Technologies and Tools </h3>
+<div style="display: inline_block"><br>
+	<img align="center" alt="swift" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+	<img align="center" alt="java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+	<img align="center" alt="vs-code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+	<img align="center" alt="xcode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
+	<img align="center" alt="figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+	<img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
 
-<h2> <b> I want to learn </b> </h2> 
+---
 
-<div> 
-	<img align="center" alt="PedroFranco-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-	<img align="center" alt="PedroFranco-Postgree" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-	<img align="center" alt="PedroFranco-Unity" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
-	<img align="center" alt="PedroFranco-Flutter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-</div> 
+<h3> Currently Studying </h3>
+<div style="display: inline_block"><br>
+	<img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+	<img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+	<img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+</div>
+
+--- 
+
+<h3> Published Projects </h3>
+<div style="display: inline_block"><br>
+	<img align="center" alt="git" height="50" width="50" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/54/fb/54/54fb543d-4708-79a3-2b23-0d32e4aa882f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/460x0w.webp"/>
+</div>
 
