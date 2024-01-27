@@ -2,7 +2,7 @@
 <div>
     <ul>
         <li> 🍎 I am an iOS Developer.
-	<li> 📚 Currently studying the Apple Developer Academy program in Campinas and becoming a technologist in Systems Analysis and Development at Fatec Americana.
+	<li> 📚 Currently studying the Apple Developer Academy program at Campinas and becoming a technologist in Systems Analysis and Development at Fatec Americana.
         <li> 👩‍💻 I'm very interested in Swift and Java programming, mainly in UIKit, SwiftUI, SpriteKit and Spring Boot frameworks.
 	<li> 👾 I'm passionate about games and in my free time I like to develop some games, read manga and books and play guitar.
     </ul>
