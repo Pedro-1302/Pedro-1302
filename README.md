@@ -55,3 +55,6 @@ When I'm not coding, you can find me playing guitar 🎸 or diving into a good m
 <a href="https://testflight.apple.com/join/5kmJx9yb">
   <img src="https://media.discordapp.net/attachments/1279530263793369091/1279530317430132827/Group_61.png?ex=66d4c6f8&is=66d37578&hm=07820ce03dee7643bd580ae9cbf67140aba9631c61236eae6b67d59da6e5425f&=&format=webp&quality=lossless&width=700&height=700" alt="Music Match" width="50" height="50">
 </a>
+<a href="https://testflight.apple.com/join/TMw6Uz42">
+  <img src="https://media.discordapp.net/attachments/1279530263793369091/1279542228838125578/AppIcon.png?ex=66d4d210&is=66d38090&hm=448d069d7b804e2a1b10ca44bce73f062384f4c133651692b1aa63b1fe04d001&=&format=webp&quality=lossless&width=1228&height=1228" alt="TaskWise" width="50" height="50">
+</a>
