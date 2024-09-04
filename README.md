@@ -1,7 +1,7 @@
 # Hi there! 👋
 I am an iOS Developer currently enrolled in the Apple Developer Academy at Campinas and pursuing a degree in Systems Analysis and Development at Fatec Americana. 
 
-My main areas of interest are Swift and Java, and I love working with frameworks such as UIKit (Storyboard, XIB/NIB and View Coding), SwiftUI, SpriteKit and Spring Boot.
+My main areas of interest are Swift and Java, and I love working with frameworks such as UIKit (Storyboard, XIB/NIB and View Coding), SwiftUI and SpriteKit.
 
 I'm passionate about games 👾 and often spend my free time developing them. Additionally, I'm deeply curious about Machine Learning and Artificial Intelligence and enjoy exploring these fields whenever I can.
 
