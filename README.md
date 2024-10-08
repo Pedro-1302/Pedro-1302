@@ -36,6 +36,7 @@ When I'm not coding, you can find me playing guitar 🎸 or diving into a good m
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrofranco13/)
@@ -52,8 +53,8 @@ When I'm not coding, you can find me playing guitar 🎸 or diving into a good m
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/7e/14/207e142b-aaf6-b530-41c7-7f1f27befd34/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp" alt="Ecosort" width="50" height="50">
 </a>
 <a href="https://testflight.apple.com/join/5kmJx9yb">
-  <img src="https://media.discordapp.net/attachments/1279530263793369091/1279530317430132827/Group_61.png?ex=66d4c6f8&is=66d37578&hm=07820ce03dee7643bd580ae9cbf67140aba9631c61236eae6b67d59da6e5425f&=&format=webp&quality=lossless&width=700&height=700" alt="Music Match" width="50" height="50">
+  <img src="https://media.discordapp.net/attachments/1279530263793369091/1279530317430132827/Group_61.png?ex=6706dff8&is=67058e78&hm=395d247fbce6283c2f1212c96a0708da1efdc0518b17c9a9d919833e34fa5f11&=&format=webp&quality=lossless&width=944&height=944" alt="Music Match" width="50" height="50">
 </a>
 <a href="https://testflight.apple.com/join/TMw6Uz42">
-  <img src="https://media.discordapp.net/attachments/1279530263793369091/1279542228838125578/AppIcon.png?ex=66d4d210&is=66d38090&hm=448d069d7b804e2a1b10ca44bce73f062384f4c133651692b1aa63b1fe04d001&=&format=webp&quality=lossless&width=1228&height=1228" alt="TaskWise" width="50" height="50">
+  <img src="https://media.discordapp.net/attachments/1279530263793369091/1279542228838125578/AppIcon.png?ex=6706eb10&is=67059990&hm=171c1f0794b8fab95ea9508ea94581c522eeb545663c26ab0007e42e99efbae5&=&format=webp&quality=lossless&width=944&height=944" alt="TaskWise" width="50" height="50">
 </a>
