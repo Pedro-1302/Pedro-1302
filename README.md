@@ -1,6 +1,6 @@
 # 👋 Hi there!
 - I'm an iOS Developer & Apple Developer Academy Alumni (Campinas, 2023-2024).
-- Currently working as a Junior Software Analyst at EiTV Tecnologia para Streaming e TV Digital, a company specialized in white-label solutions for digital TV, streaming, and broadcasting.
+- Currently working as a Junior Software Analyst at EiTV Technology for Streaming and Digital TV, a company specialized in white-label solutions for digital TV, streaming, and broadcasting.
 - I graduated in Systems Analysis & Development from Fatec Americana.
 - I enjoy working with Swift and Java, and I like using UIKit (Storyboard, XIB/NIB, View Coding), SwiftUI, SpriteKit, and Spring Boot.
 - When I'm not coding, I like to create games 👾, explore machine learning & AI and play guitar 🎸.
