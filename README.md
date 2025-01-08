@@ -1,11 +1,9 @@
-# Hi there! 👋
-I am an iOS Developer currently enrolled in the Apple Developer Academy at Campinas and pursuing a degree in Systems Analysis and Development at Fatec Americana. 
-
-My main areas of interest are Swift and Java, and I love working with frameworks such as UIKit (Storyboard, XIB/NIB and View Coding), SwiftUI and SpriteKit.
-
-I'm passionate about games 👾 and often spend my free time developing them. Additionally, I'm deeply curious about Machine Learning and Artificial Intelligence and enjoy exploring these fields whenever I can.
-
-When I'm not coding, you can find me playing guitar 🎸 or diving into a good manga book.
+# 👋 Hi there!
+- I'm an iOS Developer & Apple Developer Academy Alumni (Campinas, 2023-2024).
+- Currently working as a Junior Software Analyst at EiTV Tecnologia para Streaming e TV Digital, a company specialized in white-label solutions for digital TV, streaming, and broadcasting.
+- I graduated in Systems Analysis & Development from Fatec Americana.
+- I enjoy working with Swift and Java, and I like using UIKit (Storyboard, XIB/NIB, View Coding), SwiftUI, SpriteKit, and Spring Boot.
+- When I'm not coding, I like to create games 👾, explore machine learning & AI and play guitar 🎸.
 
 ---
 
