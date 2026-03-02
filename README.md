@@ -1,8 +1,8 @@
 # 👋 Hi there!
 
-* I'm an iOS Developer specialized in Swift, View Code (UIKit) and SwiftUI. 
 * Apple Developer Academy Alumni (Campinas, 2023–2024) and graduate in Systems Analysis & Development at Fatec Americana.
-* Currently working as a Junior Software Analyst at `EiTV Tecnologia de Streaming e TV Digital`, migrating a legacy system to modern iOS technologies including SwiftUI, SPM, unit testing, Fastlane and Clean Architecture while also working with Apple TV.
+* Junior Software Analyst at EiTV Tecnologia de Streaming e TV Digital, leading the migration of a legacy system to modern iOS technologies (SwiftUI, SPM, Fastlane, Clean Architecture) and contributing to Apple TV projects.
+* Expanding expertise in Flutter and cross-platform development while enrolled in the Android & Embedded IoT Training Program at Universidade Estadual de Campinas (Unicamp), in partnership with Softex and Instituto de Pesquisas Eldorado.
 
 ---
 
@@ -14,12 +14,14 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 ### Learning
+![Apple TV](https://img.shields.io/badge/tvOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Apple TV](https://img.shields.io/badge/tvOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Pretending to Learn
